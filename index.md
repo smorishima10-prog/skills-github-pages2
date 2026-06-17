@@ -6,7 +6,7 @@ title: Welcome to my blog!
 これはGitHub Pagesのテストページです。
 
 ## 自己紹介
-- **名前:** あなたの名前
+- **名前:** 森嶌園
 - **趣味:** プログラミング、サッカー観戦
 
 [GitHubのプロフィールはこちら](https://github.com/)
